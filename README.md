@@ -12,5 +12,5 @@ The main use of chatbot nowadays is to create a conversation with users on diffe
 - <b>The project is written in Python </b> 
 - <b>Deep learning</b>
 
-<h2>Attached to the project is a presentation describing the project itself as well as a zip file containing the entire project.</h2>
+<h2>Attached to the project is a presentation describing the project itself as well as a folder containing the entire project.</h2>
 
